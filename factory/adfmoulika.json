@@ -1,0 +1,9 @@
+{
+	"name": "adfmoulika",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5458471b-3a7e-4d47-bf24-7a64aa984b94",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
